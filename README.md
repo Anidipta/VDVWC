@@ -13,3 +13,5 @@ This model is engineered to robustly detect and classify vehicles across a range
 - **Deployment**: Designed for integration into real-time vehicle detection systems. The model’s predictions can be used to enhance safety and monitoring in dynamic environments, making it suitable for applications in autonomous driving, traffic management, and vehicular surveillance.
 
 This model's robust design and training ensure reliable detection and classification of vehicles, contributing to improved safety and efficiency in various weather conditions.
+
+[Model](https://drive.google.com/file/d/1ORDPEvBxcDiFXlft47L5bK3vBPSRWVq4/view?usp=sharing)
